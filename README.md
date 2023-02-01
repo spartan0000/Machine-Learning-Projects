@@ -1,2 +1,2 @@
-# KNN_project
-KNN project for an intro level course on machine learning
+# Machine learning projects
+Various machine learning projects for an intro level course on machine learning
